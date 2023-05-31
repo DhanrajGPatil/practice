@@ -9,4 +9,8 @@ print(a-b)
 print('Hello.....')
 print('Merge')
 
+a=6
+b=9
+print(a*b)
+
 
